@@ -1,0 +1,15 @@
+D2 line, pi + sigma polarisation, w0 = 1 mm, P_tot = 5 mW
+I = 159.2 mW/cm^2, Delta/2pi = 69.4 MHz
+==========================================================================================
+Transition          t_pi (us)   P_sc_avg   omega_AC_i   omega_AC_f    delta_req  omega_r/2pi
+------------------------------------------------------------------------------------------
+402.7G mF1->0           2.238     0.2170       0.5577       0.0495       0.5082        24.05
+445.4G mF1->0           2.775     0.2095       0.5160       0.0651       0.4509        23.13
+445.4G mF1->2           1.970     0.0200       0.3105      -0.1343       0.4448        17.94
+
+Units:
+- t_pi in microseconds
+- omega_AC_i, omega_AC_f, delta_req in MHz (divided by 2*pi)
+- omega_r/2*pi in Hz
+
+Cloud half-length L = 30 um used for the dipole kick / trapping frequency.

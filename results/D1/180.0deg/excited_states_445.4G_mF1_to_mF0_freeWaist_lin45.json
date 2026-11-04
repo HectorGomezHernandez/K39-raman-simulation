@@ -1,0 +1,173 @@
+{
+    "title": "Excited manifold D1 (P, J=0.5) at B = 445.4 G",
+    "states": [
+        {
+            "state_index": 0,
+            "energy_over_2pi_MHz": -230.06247124956914,
+            "mF_expectation": 1.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 3,
+                    "mJ": -0.5,
+                    "mI": 1.5,
+                    "mF": 1.0,
+                    "weight": 0.9970835781720134
+                },
+                {
+                    "basis_idx": 6,
+                    "mJ": 0.5,
+                    "mI": 0.5,
+                    "mF": 1.0,
+                    "weight": 0.0029164218279866014
+                }
+            ]
+        },
+        {
+            "state_index": 1,
+            "energy_over_2pi_MHz": -216.6332368338846,
+            "mF_expectation": 0.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 2,
+                    "mJ": -0.5,
+                    "mI": 0.5,
+                    "mF": 0.0,
+                    "weight": 0.9955943253972993
+                },
+                {
+                    "basis_idx": 5,
+                    "mJ": 0.5,
+                    "mI": -0.5,
+                    "mF": 0.0,
+                    "weight": 0.004405674602700661
+                }
+            ]
+        },
+        {
+            "state_index": 2,
+            "energy_over_2pi_MHz": -202.29547397817632,
+            "mF_expectation": -1.0000000000000002,
+            "dominant_components": [
+                {
+                    "basis_idx": 1,
+                    "mJ": -0.5,
+                    "mI": -0.5,
+                    "mF": -1.0,
+                    "weight": 0.996198669500298
+                },
+                {
+                    "basis_idx": 4,
+                    "mJ": 0.5,
+                    "mI": -1.5,
+                    "mF": -1.0,
+                    "weight": 0.003801330499702133
+                }
+            ]
+        },
+        {
+            "state_index": 3,
+            "energy_over_2pi_MHz": -186.8336271645972,
+            "mF_expectation": -2.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 0,
+                    "mJ": -0.5,
+                    "mI": -1.5,
+                    "mF": -2.0,
+                    "weight": 1.0
+                },
+                {
+                    "basis_idx": 7,
+                    "mJ": 0.5,
+                    "mI": 1.5,
+                    "mF": 2.0,
+                    "weight": 0.0
+                }
+            ]
+        },
+        {
+            "state_index": 4,
+            "energy_over_2pi_MHz": 188.5849363542689,
+            "mF_expectation": -1.0000000000000002,
+            "dominant_components": [
+                {
+                    "basis_idx": 4,
+                    "mJ": 0.5,
+                    "mI": -1.5,
+                    "mF": -1.0,
+                    "weight": 0.996198669500298
+                },
+                {
+                    "basis_idx": 1,
+                    "mJ": -0.5,
+                    "mI": -0.5,
+                    "mF": -1.0,
+                    "weight": 0.003801330499702133
+                }
+            ]
+        },
+        {
+            "state_index": 5,
+            "energy_over_2pi_MHz": 202.74573683388454,
+            "mF_expectation": 0.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 5,
+                    "mJ": 0.5,
+                    "mI": -0.5,
+                    "mF": 0.0,
+                    "weight": 0.9955943253972993
+                },
+                {
+                    "basis_idx": 2,
+                    "mJ": -0.5,
+                    "mI": 0.5,
+                    "mF": 0.0,
+                    "weight": 0.004405674602700663
+                }
+            ]
+        },
+        {
+            "state_index": 6,
+            "energy_over_2pi_MHz": 215.99800887347652,
+            "mF_expectation": 1.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 6,
+                    "mJ": 0.5,
+                    "mI": 0.5,
+                    "mF": 1.0,
+                    "weight": 0.9970835781720134
+                },
+                {
+                    "basis_idx": 3,
+                    "mJ": -0.5,
+                    "mI": 1.5,
+                    "mF": 1.0,
+                    "weight": 0.0029164218279866014
+                }
+            ]
+        },
+        {
+            "state_index": 7,
+            "energy_over_2pi_MHz": 228.49612716459725,
+            "mF_expectation": 2.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 7,
+                    "mJ": 0.5,
+                    "mI": 1.5,
+                    "mF": 2.0,
+                    "weight": 1.0
+                },
+                {
+                    "basis_idx": 6,
+                    "mJ": 0.5,
+                    "mI": 0.5,
+                    "mF": 1.0,
+                    "weight": 0.0
+                }
+            ]
+        }
+    ]
+}

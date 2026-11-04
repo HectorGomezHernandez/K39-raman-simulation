@@ -1,0 +1,173 @@
+{
+    "title": "Ground manifold S1/2 at B = 445.4 G",
+    "states": [
+        {
+            "state_index": 0,
+            "energy_over_2pi_MHz": -823.9343135167089,
+            "mF_expectation": 1.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 3,
+                    "mJ": -0.5,
+                    "mI": 1.5,
+                    "mF": 1.0,
+                    "weight": 0.9826746322095706
+                },
+                {
+                    "basis_idx": 6,
+                    "mJ": 0.5,
+                    "mI": 0.5,
+                    "mF": 1.0,
+                    "weight": 0.017325367790429404
+                }
+            ]
+        },
+        {
+            "state_index": 1,
+            "energy_over_2pi_MHz": -723.195554345484,
+            "mF_expectation": 0.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 2,
+                    "mJ": -0.5,
+                    "mI": 0.5,
+                    "mF": 0.0,
+                    "weight": 0.9689497704115656
+                },
+                {
+                    "basis_idx": 5,
+                    "mJ": 0.5,
+                    "mI": -0.5,
+                    "mF": 0.0,
+                    "weight": 0.031050229588434404
+                }
+            ]
+        },
+        {
+            "state_index": 2,
+            "energy_over_2pi_MHz": -604.2271824179351,
+            "mF_expectation": -1.0000000000000002,
+            "dominant_components": [
+                {
+                    "basis_idx": 1,
+                    "mJ": -0.5,
+                    "mI": -0.5,
+                    "mF": -1.0,
+                    "weight": 0.965352505422219
+                },
+                {
+                    "basis_idx": 4,
+                    "mJ": 0.5,
+                    "mI": -1.5,
+                    "mF": -1.0,
+                    "weight": 0.034647494577781164
+                }
+            ]
+        },
+        {
+            "state_index": 3,
+            "energy_over_2pi_MHz": -450.8320816992965,
+            "mF_expectation": -2.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 0,
+                    "mJ": -0.5,
+                    "mI": -1.5,
+                    "mF": -2.0,
+                    "weight": 1.0
+                },
+                {
+                    "basis_idx": 7,
+                    "mJ": 0.5,
+                    "mI": 1.5,
+                    "mF": 2.0,
+                    "weight": 0.0
+                }
+            ]
+        },
+        {
+            "state_index": 4,
+            "energy_over_2pi_MHz": 488.9742147440273,
+            "mF_expectation": -1.0000000000000002,
+            "dominant_components": [
+                {
+                    "basis_idx": 4,
+                    "mJ": 0.5,
+                    "mI": -1.5,
+                    "mF": -1.0,
+                    "weight": 0.965352505422219
+                },
+                {
+                    "basis_idx": 1,
+                    "mJ": -0.5,
+                    "mI": -0.5,
+                    "mF": -1.0,
+                    "weight": 0.034647494577781164
+                }
+            ]
+        },
+        {
+            "state_index": 5,
+            "energy_over_2pi_MHz": 607.7656242954843,
+            "mF_expectation": 0.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 5,
+                    "mJ": 0.5,
+                    "mI": -0.5,
+                    "mF": 0.0,
+                    "weight": 0.9689497704115656
+                },
+                {
+                    "basis_idx": 2,
+                    "mJ": -0.5,
+                    "mI": 0.5,
+                    "mF": 0.0,
+                    "weight": 0.031050229588434387
+                }
+            ]
+        },
+        {
+            "state_index": 6,
+            "energy_over_2pi_MHz": 708.3274210906161,
+            "mF_expectation": 1.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 6,
+                    "mJ": 0.5,
+                    "mI": 0.5,
+                    "mF": 1.0,
+                    "weight": 0.9826746322095706
+                },
+                {
+                    "basis_idx": 3,
+                    "mJ": -0.5,
+                    "mI": 1.5,
+                    "mF": 1.0,
+                    "weight": 0.01732536779042941
+                }
+            ]
+        },
+        {
+            "state_index": 7,
+            "energy_over_2pi_MHz": 797.1218718492966,
+            "mF_expectation": 2.0,
+            "dominant_components": [
+                {
+                    "basis_idx": 7,
+                    "mJ": 0.5,
+                    "mI": 1.5,
+                    "mF": 2.0,
+                    "weight": 1.0
+                },
+                {
+                    "basis_idx": 6,
+                    "mJ": 0.5,
+                    "mI": 0.5,
+                    "mF": 1.0,
+                    "weight": 0.0
+                }
+            ]
+        }
+    ]
+}
